@@ -16,14 +16,14 @@ This project demonstrates the Sidecar Pattern using Docker, where a primary appl
 2. Clone this repository:
    ```bash
    git clone https://github.com/Osc2405/Sidecar_Pattern_Example.git
-   cd sidecar-pattern-example
+   cd Sidecar_Pattern_Example
    ```
 
 ---
 
 ## **File Structure**
 ```
-sidecar-pattern-example/
+Sidecar_Pattern_Example/
 ├── app/                  # Flask application code
 │   ├── app.py            # Main Flask app file
 │   └── requirements.txt  # Python dependencies
@@ -88,7 +88,7 @@ Feel free to fork this repository, create a feature branch, and submit a pull re
 
 # Ejemplo de Patrón Sidecar
 
-[Ir a la sección en inglés](#sidecar-pattern-example)
+[Ir a la sección en inglés](#Sidecar_Pattern_Example)
 
 Este proyecto demuestra el patrón Sidecar utilizando Docker, donde un contenedor de aplicación principal se comunica con un contenedor sidecar para procesar registros. La aplicación principal es un servidor Flask, y el sidecar procesa los registros de la aplicación.
 
@@ -104,14 +104,14 @@ Este proyecto demuestra el patrón Sidecar utilizando Docker, donde un contenedo
 2. Clonar este repositorio:
    ```bash
    git clone https://github.com/Osc2405/Sidecar_Pattern_Example.git
-   cd sidecar-pattern-example
+   cd Sidecar_Pattern_Example
    ```
 
 ---
 
 ## **Estructura de Archivos**
 ```
-sidecar-pattern-example/
+Sidecar_Pattern_Example/
 ├── app/                  # Código de la aplicación Flask
 │   ├── app.py            # Archivo principal de la aplicación Flask
 │   └── requirements.txt  # Dependencias de Python
