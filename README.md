@@ -57,7 +57,7 @@ Sidecar_Pattern_Example/
 
 | Endpoint | Description             |
 |----------|-------------------------|
-| `/`      | Returns "Hello, World!" |
+| `/`      | Returns "Hola, mundo! Revisa los logs para más detalles." |
 
 ---
 
@@ -145,7 +145,7 @@ Sidecar_Pattern_Example/
 
 | Endpoint | Descripción             |
 |----------|-------------------------|
-| `/`      | Devuelve "Hello, World!" |
+| `/`      | Devuelve "Hola, mundo! Revisa los logs para más detalles." |
 
 ---
 
